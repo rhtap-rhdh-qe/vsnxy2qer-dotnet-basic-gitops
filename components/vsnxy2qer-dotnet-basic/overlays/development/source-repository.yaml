@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vsnxy2qer-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vsnxy2qer-dotnet-basic
